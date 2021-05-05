@@ -53,7 +53,4 @@ public class EmployeeServlet extends GenericServlet
         }
 
 	}
-	System.out.println("This is new line 1");
-	System.out.println("This is new line 2");
-	System.out.println("This is new line 3");
 }
